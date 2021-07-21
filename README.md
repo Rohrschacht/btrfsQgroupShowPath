@@ -34,3 +34,11 @@ qgroupid         rfer         excl  path
 0/1879       85.95GiB     40.02MiB  @snapshots/@home.20210721T0101
 0/1880       85.95GiB     25.87MiB  @snapshots/@home.20210721T0201
 ```
+
+# Install
+
+Install the tool using go get:
+
+```
+$ go get github.com/rohrschacht/btrfsQgroupShowPath
+```
