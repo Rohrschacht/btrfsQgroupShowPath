@@ -35,7 +35,7 @@ qgroupid         rfer         excl  path
 0/1880       85.95GiB     25.87MiB  @snapshots/@home.20210721T0201
 ```
 
-# Install
+## Install
 
 Install the tool using go get:
 
